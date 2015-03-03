@@ -12,8 +12,8 @@ Aqui vale tudo!
 
 ### Onde nasceu a idéia
 
-Eu escrevi um [artigo] para iniciantes em git e GitHub e um dos desafios que todo iniciante se depara, quando está 
-aprendo, é praticar os processos de fork, pull request, etc...
+Eu escrevi um [artigo](http://devfuria.com.br/git/tutorial-iniciando-git/) para iniciantes em git e GitHub e um dos 
+desafios que todo iniciante se depara, quando está aprendo, é praticar os processos de fork, pull request, etc...
 
 Talvez falte um lugar neutro, onde a gente possa testar, experimentar, bagunçar, se divertir um pouco, etc...
 Esse é o objetivo deste repositório.
