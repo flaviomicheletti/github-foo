@@ -1,5 +1,3 @@
-Editado por Tiago Bernardo
-
 Experimente o GitHub através deste repositório
 ===
 
@@ -45,3 +43,6 @@ e se você aprendeu alguma coisa com este repositório.
 
 1. https://github.com/flaviomicheletti - aprendi que posso ajudar outras pessoas a aprenderem a programar e desenvolver softwares.
 2. deixe seu recado aqui.
+
+"Acabei de aprender a usar o git e serei o maior hokage de todos os tempos, tô certo!"
+- Tiago Bernardo
