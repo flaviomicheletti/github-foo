@@ -42,6 +42,6 @@ Depois de ter se divertido, convido a deixar um depoimento se foi legal ou não
 e se você aprendeu alguma coisa com este repositório.
 
 1. https://github.com/flaviomicheletti - aprendi que posso ajudar outras pessoas a aprenderem a programar e desenvolver softwares.
-2. @hsbtiago (__Tiago Bernardo__)
+2. [@hsbtiago](https://github.com/hsbtiago "Tiago Bernardo")
    "Acabei de aprender a usar o git e serei o maior hokage de todos os tempos, tô certo!"
-3. deixe seu recado aqui.
+3. Deixe seu recado aqui.
