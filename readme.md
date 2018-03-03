@@ -46,7 +46,3 @@ e se você aprendeu alguma coisa com este repositório.
 2. [@hsbtiago](https://github.com/hsbtiago "Tiago Bernardo")
    "Acabei de aprender a usar o git e serei o maior hokage de todos os tempos, tô certo!"
 3. Deixe seu recado aqui.
-
-
-
-baguncei
