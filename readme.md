@@ -45,5 +45,7 @@ e se você aprendeu alguma coisa com este repositório.
    "Aprendi que posso ajudar outras pessoas a aprenderem a programar e desenvolver softwares."
 2. [@hsbtiago](https://github.com/hsbtiago "Tiago Bernardo")
    "Acabei de aprender a usar o git e serei o maior hokage de todos os tempos, tô certo!"
-3. [@seu-nick-github](https://github.com/seu-link)
+3. [@wesleylimadasilva](https://github.com/wesleylimadasilva)
+   "Estou aprendendo Git com o Flávio....bora programar agora"
+4. [@seu-nick-github](https://github.com/seu-link)
    "Colocar um comentário"
