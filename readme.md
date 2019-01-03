@@ -49,5 +49,3 @@ e se você aprendeu alguma coisa com este repositório.
    "Estou aprendendo Git com o Flávio....bora programar agora"
 4. [@joseliobeze(https://github.com/joseliobeze "bagunçando")
    "Aprendendo a programas"
-5. [@seu-nick-github](https://github.com/seu-link)
-   "Colocar um comentário"
