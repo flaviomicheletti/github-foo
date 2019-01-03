@@ -47,5 +47,5 @@ e se você aprendeu alguma coisa com este repositório.
    "Acabei de aprender a usar o git e serei o maior hokage de todos os tempos, tô certo!"
 3. [@wesleylimadasilva](https://github.com/wesleylimadasilva)
    "Estou aprendendo Git com o Flávio....bora programar agora"
-4. [@joseliobeze(https://github.com/joseliobeze "bagunçando")
+4. [@joseliobeze](https://github.com/joseliobeze "bagunçando")
    "Aprendendo a programas"
