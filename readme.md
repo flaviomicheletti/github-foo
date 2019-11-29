@@ -47,5 +47,12 @@ e se você aprendeu alguma coisa com este repositório.
    "Acabei de aprender a usar o git e serei o maior hokage de todos os tempos, tô certo!"
 3. [@wesleylimadasilva](https://github.com/wesleylimadasilva)
    "Estou aprendendo Git com o Flávio....bora programar agora"
-4. [@joseliobeze](https://github.com/joseliobeze "bagunçando")
-   "Aprendendo a programas"
+4. [@Daniel-Lima-Adv](https://github.com/Daniel-Lima-Adv)
+   "Daniel Lima - Santander"
+5. [@fisromildojr](https://github.com/fisromildojr "Romildo Jr")
+   "Passando por aqui, parabéns [Flavio Micheletti](https://github.com/flaviomicheletti) pela didática, tutorial bem simples porém objetivo..."
+6. [@joseliobeze](https://github.com/joseliobeze "bagunçando")
+   "Aprendendo a programar"
+7. [@seu-nick-github](https://github.com/seu-link)
+   "Colocar um comentário"
+   
