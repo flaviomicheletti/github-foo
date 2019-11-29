@@ -51,6 +51,8 @@ e se você aprendeu alguma coisa com este repositório.
    "Daniel Lima - Santander"
 5. [@fisromildojr](https://github.com/fisromildojr "Romildo Jr")
    "Passando por aqui, parabéns [Flavio Micheletti](https://github.com/flaviomicheletti) pela didática, tutorial bem simples porém objetivo..."
-6. [@seu-nick-github](https://github.com/seu-link)
+6. [@joseliobeze](https://github.com/joseliobeze "bagunçando")
+   "Aprendendo a programar"
+7. [@seu-nick-github](https://github.com/seu-link)
    "Colocar um comentário"
    
