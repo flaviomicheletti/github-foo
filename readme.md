@@ -49,3 +49,8 @@ e se você aprendeu alguma coisa com este repositório.
    "Estou aprendendo Git com o Flávio....bora programar agora"
 4. [@Daniel-Lima-Adv](https://github.com/Daniel-Lima-Adv)
    "Daniel Lima - Santander"
+5. [@fisromildojr](https://github.com/fisromildojr "Romildo Jr")
+   "Passando por aqui, parabéns [Flavio Micheletti](https://github.com/flaviomicheletti) pela didática, tutorial bem simples porém objetivo..."
+6. [@seu-nick-github](https://github.com/seu-link)
+   "Colocar um comentário"
+   
