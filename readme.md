@@ -53,6 +53,9 @@ e se você aprendeu alguma coisa com este repositório.
    "Passando por aqui, parabéns [Flavio Micheletti](https://github.com/flaviomicheletti) pela didática, tutorial bem simples porém objetivo..."
 6. [@joseliobeze](https://github.com/joseliobeze "bagunçando")
    "Aprendendo a programar"
-7. [@seu-nick-github](https://github.com/seu-link)
+7. [@christopherfrige](https://github.com/christopherfrige)
+   "Valeu pela ajuda, finalmente entendi como usar tudo isso..."
+8. [@seu-nick-github](https://github.com/seu-link)
    "Colocar um comentário"
+   
    
