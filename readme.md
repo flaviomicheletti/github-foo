@@ -57,5 +57,8 @@ e se você aprendeu alguma coisa com este repositório.
    "Valeu pela ajuda, finalmente entendi como usar tudo isso..."
 8. [@seu-nick-github](https://github.com/seu-link)
    "Colocar um comentário"
+9. [@marcos-suarez](https://github.com/marcos-suarez)
+    "Aprendendo a utilizar o git com o Flávio, Obrigado pela aula e compartilhamento de conhecimento :D!"
+
    
    
