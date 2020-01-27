@@ -55,7 +55,9 @@ e se você aprendeu alguma coisa com este repositório.
    "Aprendendo a programar"
 7. [@christopherfrige](https://github.com/christopherfrige)
    "Valeu pela ajuda, finalmente entendi como usar tudo isso..."
-8. [@seu-nick-github](https://github.com/seu-link)
+8. [@Lzpp3](https://github.com/uizfvandrade)
+   "Um lindo e belo comentário =]"
+9. [@seu-nick-github](https://github.com/seu-link)
    "Colocar um comentário"
 9. [@bernardoevelyn](https://github.com/evelynbernardo)
    "May the force be with you"
