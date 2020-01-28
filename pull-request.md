@@ -1,8 +1,5 @@
-<html>
-	<head>
-		<title>Pull Request</title>
-	</head>
-	<body>
+<body>
+	<h1>Pull Request</h1>
 	<p>Para realizar um pull request acesse: https://github.com/flaviomicheletti/github-foo/pulls
 	E clique em "Nem pull request"</p>
 	<h2>Sobre pull requests</h2>
@@ -10,8 +7,7 @@
 	fez push para um branch em um repositório no GitHub. Depois que uma pull request é aberta, <br>
 	você pode discutir e revisar as possíveis alterações com colaboradores e adicionar commits de <br>
 	acompanhamento antes que as alterações sofram merge no branch base.</p>
-	</body>
-</html>
+</body>
 
 	<html>
 		<head>
