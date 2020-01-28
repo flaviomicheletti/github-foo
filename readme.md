@@ -63,5 +63,7 @@ e se você aprendeu alguma coisa com este repositório.
    "May the force be with you"
 11. [@GeovannaM](https://github.com/GeovannaM) 
    "Aprendendo na Groove"
-12. [@seu-nick-github](https://github.com/seu-link)
+12. [@emi-rodriguez](https://github.com/emi-rodriguez)
+	"Live long and prosper"   
+13. [@seu-nick-github](https://github.com/seu-link)
    "Colocar um comentário"
