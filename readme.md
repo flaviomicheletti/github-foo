@@ -58,12 +58,14 @@ e se você aprendeu alguma coisa com este repositório.
 8. [@Lzpp3](https://github.com/uizfvandrade)
    "Um lindo e belo comentário =]"
 9. [@marcos-suarez](https://github.com/marcos-suarez)
-    "Aprendendo a utilizar o git com o Flávio, Obrigado pela aula e compartilhamento de conhecimento :D!"
+   "Aprendendo a utilizar o git com o Flávio, Obrigado pela aula e compartilhamento de conhecimento :D!"
 10. [@bernardoevelyn](https://github.com/evelynbernardo)
    "May the force be with you"
 11. [@GeovannaM](https://github.com/GeovannaM) 
    "Aprendendo na Groove"
 12. [@emi-rodriguez](https://github.com/emi-rodriguez)
-	"Live long and prosper"   
+    "Live long and prosper"   
+1. [@Gustavo-Coelho](https://github.com/Gustavo-Coelho/)
+   "Ótimo tutorial - Dennis Bergkamp"	
 13. [@seu-nick-github](https://github.com/seu-link)
-   "Colocar um comentário"
+    "Colocar um comentário"
