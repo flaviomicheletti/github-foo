@@ -65,7 +65,10 @@ e se você aprendeu alguma coisa com este repositório.
    "Aprendendo na Groove"
 12. [@emi-rodriguez](https://github.com/emi-rodriguez)
     "Live long and prosper"   
-1. [@Gustavo-Coelho](https://github.com/Gustavo-Coelho/)
-   "Ótimo tutorial - Dennis Bergkamp"	
+13. [@Gustavo-Coelho](https://github.com/Gustavo-Coelho/)
+   "Ótimo tutorial - Dennis Bergkamp"
+14. [@LizzardMedeiros](https://github.com/LizzardMedeiros/)
+   "Finalmente estou aprendendo! OMG"
+	
 13. [@seu-nick-github](https://github.com/seu-link)
     "Colocar um comentário"
