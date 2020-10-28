@@ -21,7 +21,7 @@ Esse é o objetivo deste repositório.
 
 ### O que você pode fazer ?
 
-Tudo, qualquer coisa sem medo de errar ou parecer ridículo, aqui niguém vai curtir com sua cara.
+Tudo, qualquer coisa sem medo de errar ou parecer ridículo, aqui ninguém vai curtir com sua cara.
 
 Minha sugestão:
 
@@ -64,4 +64,7 @@ e se você aprendeu alguma coisa com este repositório.
 11. @Gustavo-Coelho
 	"Ótimo tutorial - Dennis Bergkamp"
 12. @lucas11allan mais um para bagunçar o diretório do Flavio, obrigado pelo tutorial
+13. [@TonyCarlos](https://github.com/tonycarlosdev)
+   "Obrigado Flávio - Iniciando nossa Jornada DevFúria"
+   
 
