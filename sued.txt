@@ -1,3 +1,5 @@
 Olá mundo!
 
 Este é um teste.
+
+Testando o comando "git diff".
