@@ -66,5 +66,8 @@ e se você aprendeu alguma coisa com este repositório.
 12. @lucas11allan mais um para bagunçar o diretório do Flavio, obrigado pelo tutorial
 13. [@TonyCarlos](https://github.com/tonycarlosdev)
    "Obrigado Flávio - Iniciando nossa Jornada DevFúria"
+14. [@Marrquito](https://github.com/Marrquito)
+   "Testando aqui, tomara que de certo kkkkk. insta > @marrquito_"
+
    
 
