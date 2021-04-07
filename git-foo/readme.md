@@ -68,6 +68,8 @@ e se você aprendeu alguma coisa com este repositório.
    "Obrigado Flávio - Iniciando nossa Jornada DevFúria"
 14. [@Marrquito](https://github.com/Marrquito)
    "Testando aqui, tomara que de certo kkkkk. insta > @marrquito_"
-
+   
+15.[@carloseduardocsf](https://github.com/carloseduardocsf)
+    "Testando tutorial..."
    
 
