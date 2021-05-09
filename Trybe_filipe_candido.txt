@@ -1,1 +1,1 @@
-Treinado manusamento de Git com o GitHub
+Treinado o manuseamento de Git com o GitHub
