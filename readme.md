@@ -70,9 +70,9 @@ e se você aprendeu alguma coisa com este repositório.
    "Finalmente estou aprendendo! OMG"
 15. [@Renan-C](https://github.com/Renan-C)
    "\o/"
-13. [@seu-nick-github](https://github.com/seu-link)
+16. [@seu-nick-github](https://github.com/seu-link)
     "Colocar um comentário"
-16. [@carloseduardocsf](https://github.com/carloseduardocsf)
+17. [@carloseduardocsf](https://github.com/carloseduardocsf)
    "Testando tutorial"
-      
-
+18. [@miguel-inacio](https://github.com/miguel-inacio)
+   "Passei por aqui!"
