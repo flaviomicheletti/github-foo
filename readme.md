@@ -17,6 +17,7 @@ desafios que todo iniciante se depara, quando está aprendo, é praticar os proc
 Talvez falte um lugar neutro, onde a gente possa testar, experimentar, bagunçar, se divertir um pouco, etc...
 Esse é o objetivo deste repositório.
 
+Alterado.
 
 ### O que você pode fazer ?
 
